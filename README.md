@@ -6,3 +6,4 @@
 3. collateral: Exogenous (crypto)
    1. wETH
    2. wBTC
+# Demo-StableCoins
